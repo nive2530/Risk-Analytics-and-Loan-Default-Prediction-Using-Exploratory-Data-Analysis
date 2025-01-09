@@ -1,6 +1,6 @@
 # Risk-Analytics-and-Loan-Default-Prediction-Using-Exploratory-Data-Analysis
 
-Objective:
+<b>"Objective"</b>
 To identify key factors influencing loan defaults and provide actionable insights to optimize loan approval processes, reduce financial risk, and enhance decision-making for a consumer finance company.
 
 Description:
