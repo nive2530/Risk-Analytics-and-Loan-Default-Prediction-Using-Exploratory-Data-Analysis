@@ -32,7 +32,3 @@ To identify key factors influencing loan defaults and provide actionable insight
 ## Outcome
 The project provided actionable insights to improve risk assessment and portfolio management strategies. The analysis enabled better decision-making for loan approval and risk mitigation, leading to enhanced financial performance for the lending institution.
 
-## How to Run the Code
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/loan-default-analysis.git
