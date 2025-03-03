@@ -26,8 +26,6 @@ To identify key factors influencing loan defaults and provide actionable insight
 
 ## Technologies and Tools Used
 - **Languages/Platforms:** Python (Pandas, NumPy, Matplotlib, Seaborn)
-- **Visualization Tools:** Tableau, Matplotlib, Seaborn
-- **Data Management:** SQL for dataset querying and manipulation
 
 ## Outcome
 The project provided actionable insights to improve risk assessment and portfolio management strategies. The analysis enabled better decision-making for loan approval and risk mitigation, leading to enhanced financial performance for the lending institution.
